@@ -4,7 +4,7 @@ from PIL import Image
 from io import BytesIO
 
 # Replace with your SerpApi API key
-API_KEY = 'your_serpapi_api_key'
+API_KEY = '528afad276283a7eff2416dec2a2a565559584e5e04e6e52c90be0b6c77f9900'
 
 def search_similar_images(image_path):
     url = 'https://serpapi.com/search'
